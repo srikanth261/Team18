@@ -4,8 +4,7 @@ Think Before You Drink -- A website on tap water quality
 README
 
 Project title: “Think before you drink”
-A website about tap water quality in the US for Data Visualization course CS171<a href="http://www.cs171.org/2017/index.html">at Harvard
-Completed by Paul von Chamier, Cindy (Xindi) Hu, and Daniel Tompkins 
+A website about tap water quality in the US for Data Visualization course <a href="http://www.cs171.org/2017/index.html">CS171</a> at Harvard Completed by Paul von Chamier, Cindy (Xindi) Hu, and Daniel Tompkins 
 
 /Webstorm_code
 <ul>library: 
