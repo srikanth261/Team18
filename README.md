@@ -44,6 +44,6 @@ The processed datasets are: <ul>
 <li>ucmrByState_final.csv</ul>
 
 
-<a href="https://github.com/L00SED/TeamAqua>Project Github</a>
+<a href="https://github.com/L00SED/TeamAqua">Project Github</a>
 <a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
-<a href="https://vimeo.com/246888998>Screencast of Final Submission</a>
+<a href="https://vimeo.com/246888998">Screencast of Final Submission</a>
