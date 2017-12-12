@@ -11,7 +11,7 @@ Project Deliverables <ul>
 <li><a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
 </ul>
 Screencast of Final Submission
-<a href="https://vimeo.com/246890202"><img src="https://github.com/L00SED/TeamAqua/blob/master/VimeoScreenshot.jpg" width=600px></a>
+<br><a href="https://vimeo.com/246890202"><img src="https://github.com/L00SED/TeamAqua/blob/master/VimeoScreenshot.jpg" width=600px></a>
 
 Webstorm Code
 <ul>library: 
