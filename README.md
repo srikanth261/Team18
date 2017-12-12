@@ -7,6 +7,7 @@ Project title: “Think before you drink”
 A website about tap water quality in the US for Data Visualization course <a href="http://www.cs171.org/2017/index.html">CS171</a> at Harvard Completed by Paul von Chamier, Xindi (Cindy) Hu, and Daniel Tompkins 
 
 Project Deliverables <ul>
+<li><a href="https://paulvonchamier.github.io/ThinkBeforeYouDrink/">Website: Think before you drink</a>
 <li><a href="https://github.com/L00SED/TeamAqua">Project Github</a>
 <li><a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
 </ul>
