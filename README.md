@@ -11,7 +11,7 @@ Project Deliverables <ul>
 <li><a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
 </ul>
 Screencast of Final Submission
-<iframe src="https://player.vimeo.com/video/246890202" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/246890202">Think Before You Drink</a> from <a href="https://vimeo.com/danielwilliamtompkins">Daniel William Tompkins</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<a href="https://vimeo.com/246890202"><img src="https://github.com/L00SED/TeamAqua/blob/master/VimeoScreenshot.jpg"></a>
 
 Webstorm Code
 <ul>library: 
