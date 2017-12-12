@@ -45,5 +45,7 @@ The processed datasets are: <ul>
 
 
 <a href="https://github.com/L00SED/TeamAqua">Project Github</a>
+<br>
 <a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
+<br>
 <a href="https://vimeo.com/246888998">Screencast of Final Submission</a>
