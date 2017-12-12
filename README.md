@@ -4,7 +4,14 @@ Think Before You Drink -- A website on tap water quality
 README
 
 Project title: “Think before you drink”
-A website about tap water quality in the US for Data Visualization course <a href="http://www.cs171.org/2017/index.html">CS171</a> at Harvard Completed by Paul von Chamier, Cindy (Xindi) Hu, and Daniel Tompkins 
+A website about tap water quality in the US for Data Visualization course <a href="http://www.cs171.org/2017/index.html">CS171</a> at Harvard Completed by Paul von Chamier, Xindi (Cindy) Hu, and Daniel Tompkins 
+
+Project Deliverables <ul>
+<li><a href="https://github.com/L00SED/TeamAqua">Project Github</a>
+<li><a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
+</ul>
+Screencast of Final Submission
+<iframe src="https://vimeo.com/246890202"></iframe>
 
 Webstorm Code
 <ul>library: 
@@ -44,8 +51,4 @@ The processed datasets are: <ul>
 <li>ucmrByState_final.csv</ul>
 
 
-Project Deliverables <ul>
-<li><a href="https://github.com/L00SED/TeamAqua">Project Github</a>
-<li><a href="https://github.com/L00SED/TeamAqua/blob/master/Process_Book.pdf">Process Doc</a>
-<li><a href="https://vimeo.com/246890202">Screencast of Final Submission</a>
-</ul>
+
